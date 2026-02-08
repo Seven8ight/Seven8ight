@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**Seven8ight/Seven8ight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Lawrence Muchiri, a 3rd-year CS student at Strathmore University. I build full-stack apps, but I spend most of my free time trying to figure out how things work under the hood.
 
-Here are some ideas to get you started:
+### Technical Interests
+* **Full Stack:** Primarily Node.js and React/Next.js. I've also worked with Java (Spring Boot) and am comfortable handling everything from UI (Tailwind/Motion) to API design.
+* **Low Level:** I’m currently deep-diving into C. I’m moving past the basics into pointers, memory management, and network programming.
+* **Embedded:** Experimenting with an STM32-Bluepill. Learning bare-metal programming and the HAL because I want to understand hardware-software interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+I’m using [roadmap.sh](https://roadmap.sh/u/atmuchiri) to keep my learning structured. Right now, I'm bridging the gap between high-level web dev and low-level systems engineering.
+
+[Check out my roadmap.sh profile](https://roadmap.sh/u/atmuchiri)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/659705acae22c125232454fc?variant=dark&roadmaps=full-stack%2Cbackend%2Cnodejs%2Creact-native)](https://roadmap.sh)
+
+Portfolio is underway for development
