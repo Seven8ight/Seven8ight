@@ -1,6 +1,6 @@
 ## Hi there
 
-I’m Lawrence Muchiri, a 3rd-year CS student at Strathmore University. I build full-stack apps, but I spend most of my free time trying to figure out how things work under the hood.
+I’m Lawrence Muchiri, I build full-stack apps, but I spend most of my free time trying to figure out how things work under the hood.
 
 ### Technical Interests
 * **Full Stack:** Primarily Node.js and React/Next.js. I've also worked with Java (Spring Boot) and am comfortable handling everything from UI (Tailwind/Motion) to API design.
